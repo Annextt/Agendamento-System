@@ -36,11 +36,13 @@ React
 
 # 🔹 Back-end
 
-Node.js
+JavaScript (Node.js)
 
-API REST estruturada
+API REST
 
-Autenticação com controle de acesso
+Estrutura modular
+
+Autenticação e controle de acesso
 
 Gerenciamento de rotas
 
