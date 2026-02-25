@@ -25,7 +25,7 @@ Este projeto já foi validado comercialmente e utilizado como base para implemen
 
 # 🏢 Aplicação Comercial
 
-# Este sistema foi desenvolvido como produto base replicável, podendo ser adaptado para diferentes:
+# Este sistema foi desenvolvido como produto base replicável, podendo ser adaptado para diferentes empresas!
 
 - Salões de beleza
 
