@@ -9,35 +9,35 @@ Este projeto já foi validado comercialmente e utilizado como base para implemen
 
 # 📈 Visão de Negócio
 
-O projeto foi desenvolvido com mentalidade de produto, visando:
+# O projeto foi desenvolvido com mentalidade de produto, visando:
 
-Organização operacional
+- Organização operacional
 
-Redução de erros manuais
+- Redução de erros manuais
 
-Aumento de produtividade
+- Aumento de produtividade
 
-Profissionalização do atendimento
+- Profissionalização do atendimento
 
-Modelo escalável de monetização
+- Modelo escalável de monetização
 
-Mais do que um sistema de agendamento, trata-se de uma solução digital para negócios locais.
+- Mais do que um sistema de agendamento, trata-se de uma solução digital para negócios locais.
 
 # 🏢 Aplicação Comercial
 
-Este sistema foi desenvolvido como produto base replicável, podendo ser adaptado para diferentes:
+# Este sistema foi desenvolvido como produto base replicável, podendo ser adaptado para diferentes:
 
-Salões de beleza
+- Salões de beleza
 
-Clínicas de estética
+- Clínicas de estética
 
-Barbearias
+- Barbearias
 
-Estúdios de manicure
+- Estúdios de manicure
 
-Profissionais autônomos
+- Profissionais autônomos
 
-A estrutura permite personalização de identidade visual, serviços, valores e unidades.
+- A estrutura permite personalização de identidade visual, serviços, valores e unidades.
 
 # 🛠 Tecnologias Utilizadas
 # 🔹 Front-end
