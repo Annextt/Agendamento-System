@@ -39,6 +39,19 @@ Este projeto já foi validado comercialmente e utilizado como base para implemen
 
 - A estrutura permite personalização de identidade visual, serviços, valores e unidades.
 
+  # 🚀 Demonstração
+
+Acesse a aplicação em funcionamento pelo link abaixo e explore todas as funcionalidades da plataforma:
+
+🔗 https://salaoelegancee.netlify.app
+
+# ⚠ Ambiente de Demonstração
+
+Esta versão está hospedada em ambiente gratuito (Render).
+Caso o sistema esteja inativo por um período, o backend pode levar alguns segundos para responder na primeira requisição.
+
+Em implementações comerciais, o sistema é configurado em infraestrutura dedicada, garantindo disponibilidade contínua e melhor performance.
+
 # 🛠 Tecnologias Utilizadas
 # 🔹 Front-end
 
