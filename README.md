@@ -7,6 +7,22 @@ O sistema foi projetado para automatizar o processo de marcação de horários, 
 
 Este projeto já foi validado comercialmente e utilizado como base para implementação em empresa real do setor de estética.
 
+# 📈 Visão de Negócio
+
+O projeto foi desenvolvido com mentalidade de produto, visando:
+
+Organização operacional
+
+Redução de erros manuais
+
+Aumento de produtividade
+
+Profissionalização do atendimento
+
+Modelo escalável de monetização
+
+Mais do que um sistema de agendamento, trata-se de uma solução digital para negócios locais.
+
 # 🏢 Aplicação Comercial
 
 Este sistema foi desenvolvido como produto base replicável, podendo ser adaptado para diferentes:
@@ -152,21 +168,6 @@ Notificações automáticas
 
 Deploy em ambiente cloud dedicado
 
-# 📈 Visão de Negócio
-
-O projeto foi desenvolvido com mentalidade de produto, visando:
-
-Organização operacional
-
-Redução de erros manuais
-
-Aumento de produtividade
-
-Profissionalização do atendimento
-
-Modelo escalável de monetização
-
-Mais do que um sistema de agendamento, trata-se de uma solução digital para negócios locais.
 
 # 🔄 Atualizações Contínuas
 
