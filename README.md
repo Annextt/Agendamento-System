@@ -196,6 +196,16 @@ Interface
 
 Escalabilidade
 
+# ⚠️ Status do Projeto
+## O projeto encontra-se em fase ativa de desenvolvimento. Embora já esteja funcional e validado comercialmente, algumas áreas ainda estão em processo de maturação:
+
+Segurança: Algumas camadas de proteção ainda estão sendo refinadas, como validações mais robustas na API, tratamento de erros e hardening da autenticação.
+Cobertura de testes: A suíte de testes automatizados ainda está sendo estruturada, o que pode gerar comportamentos inesperados em fluxos menos utilizados.
+Escalabilidade: A arquitetura atual suporta operações de pequeno e médio porte, porém ajustes de performance e otimizações de banco de dados ainda estão previstos para versões futuras.
+Funcionalidades: Diversas features planejadas ainda não foram implementadas (listadas em Possibilidades de Expansão).
+
+Contribuições, sugestões e feedbacks são bem-vindos. O projeto evolui de forma contínua com foco em qualidade e aplicação real.
+
 
 # Desenvolvido por DevDavid
 Full Stack Developer focado em criação de soluções reais, com visão de produto, infraestrutura e aplicação comercial.
